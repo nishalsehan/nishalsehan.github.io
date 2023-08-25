@@ -380,7 +380,7 @@ b, strong {
   padding: -50px;
   display: block;
   position: absolute;
-  top: 50%;
+  top: 45%;
   transform: translate(0, -50%);
   font-family: 'unicons';
   font-size: 100px;
