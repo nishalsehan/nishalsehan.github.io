@@ -377,7 +377,7 @@ b, strong {
 .owl-carousel .owl-nav .owl-prev:before,
 .owl-carousel .owl-nav .owl-next:before {
   background: none;
-  padding: 0;
+  padding: -50px;
   display: block;
   position: absolute;
   top: 50%;
@@ -388,11 +388,11 @@ b, strong {
 }
 .owl-carousel .owl-nav .owl-prev:before {
   content: '\e833';
-  left: -45px;
+  left: -100px;
 }
 .owl-carousel .owl-nav .owl-next:before {
   content: '\e836';
-  right: -45px;
+  right: -100px;
 }
 
 .owl-theme .owl-nav [class*=owl-] {
